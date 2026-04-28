@@ -26,3 +26,4 @@ A clean Trello-inspired task manager built with plain HTML, CSS, and vanilla Jav
 ## Notes
 
 Open `index.html` in your browser to use the app.
+
